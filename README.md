@@ -196,7 +196,3 @@ Contributions, suggestions, and improvements are welcome.
 Computer Science Engineering — Artificial Intelligence and Machine Learning
 
 SRM Institute of Science and Technology, Ramapuram, Chennai
-
-## 📄 License
-
-This project is available for educational and research purposes. Add a `LICENSE` file to the repository if you want to specify formal permissions for reuse and distribution.
